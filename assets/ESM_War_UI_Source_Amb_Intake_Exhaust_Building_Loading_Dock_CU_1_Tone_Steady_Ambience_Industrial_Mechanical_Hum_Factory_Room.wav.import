@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ESM_War_UI_Source_Amb_Intake_Exhaust_Building_Loading_Dock_CU_1_Tone_Steady_Ambience_Industrial_Mechanical_Hum_Factory_Room.wav-2b63e1be63aadf2b07358a75ebe5afd0.sample"
+
+[deps]
+
+source_file="res://assets/ESM_War_UI_Source_Amb_Intake_Exhaust_Building_Loading_Dock_CU_1_Tone_Steady_Ambience_Industrial_Mechanical_Hum_Factory_Room.wav"
+dest_files=[ "res://.import/ESM_War_UI_Source_Amb_Intake_Exhaust_Building_Loading_Dock_CU_1_Tone_Steady_Ambience_Industrial_Mechanical_Hum_Factory_Room.wav-2b63e1be63aadf2b07358a75ebe5afd0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
